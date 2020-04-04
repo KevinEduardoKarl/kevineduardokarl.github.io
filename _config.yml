@@ -95,13 +95,13 @@ analytics:
 # Site Author
 author:
   name             : "Kevin Karl"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "_images/linkedinphoto.jpg"
   bio              : "Data Analytics Portfolio"
   location         : "New York, NY"
   email            : "kek2180@columbia.edu"
   links:
     - label: "LinkedIn"
-      icon: "fa fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/kevin-karl/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

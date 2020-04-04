@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /text-analysis
+permalink: /text-analysis/
 title: "Text Analysis Posts by Tags"
 author_profile: true
 header:

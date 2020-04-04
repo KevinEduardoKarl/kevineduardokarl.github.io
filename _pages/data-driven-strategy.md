@@ -4,5 +4,5 @@ permalink: /data-driven-strategy/
 title: "Data Driven Strategy Posts by Tags"
 author_profile: true
 header:
-  image:
+  image: "/images/stoneking.jpeg"
 ---

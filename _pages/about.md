@@ -1,9 +1,9 @@
 ---
 title: "About"
 permalink: /about/
+author_profile: true
 header:
   image: "/images/trees.jpg"
-author_profile: true
 ---
 
   I'm a senior data scientist who excels at machine learning, exploratory

@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kevin Karl"
 description              : "Data Analytics Portfolio"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://kevineduardokarl.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -82,6 +82,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://www.linkedin.com/in/kevin-karl"
 
 # Analytics
 analytics:
@@ -97,14 +98,14 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Analytics Portfolio"
   location         : "New York, NY"
-  email            : kek2180
+  email            : "kek2180@columbia.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:kek280@columbia.edu
+      url: "mailto:kek2180@columbia.edu"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
-      # url: "www.linkedin.com/in/kevin-karl"
+      icon: "fas fa-fw fa-linkedin-square"
+      url: "www.linkedin.com/in/kevin-karl"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"

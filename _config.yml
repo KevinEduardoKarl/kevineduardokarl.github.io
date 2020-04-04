@@ -100,12 +100,9 @@ author:
   location         : "New York, NY"
   email            : "kek2180@columbia.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kek2180@columbia.edu"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-linkedin-square"
-      url: "www.linkedin.com/in/kevin-karl"
+      url: "https://www.linkedin.com/in/kevin-karl/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"

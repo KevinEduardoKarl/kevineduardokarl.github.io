@@ -101,7 +101,7 @@ author:
   email            : "kek2180@columbia.edu"
   links:
     - label: "LinkedIn"
-      icon: "fa-var-linkedin-square"
+      icon: "fa fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/kevin-karl/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

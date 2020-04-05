@@ -4,7 +4,7 @@ permalink: /text-analysis/
 title: "Text Analysis Posts by Tags"
 author_profile: true
 header:
-  image: "/assets/images/newwood.jpeg"
+  image: /assets/images/newwood.jpeg
 ---
 
 {% include base_path %}

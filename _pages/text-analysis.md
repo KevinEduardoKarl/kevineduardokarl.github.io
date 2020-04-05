@@ -1,8 +1,8 @@
 ---
-layout: archive
+layout: single
 permalink: /text-analysis/
-title: "Text Analysis Posts by Tags"
+title: "Text Analysis Posts"
 author_profile: true
 header:
-  image: "/images/newwood.jpeg"
+  image: "/images/newwood.jpg"
 ---

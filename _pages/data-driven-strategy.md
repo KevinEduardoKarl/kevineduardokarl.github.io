@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 permalink: /data-driven-strategy/
 title: "Data Driven Strategy Posts by Tags"
 author_profile: true

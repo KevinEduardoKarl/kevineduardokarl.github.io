@@ -4,7 +4,7 @@ permalink: /data-driven-strategy/
 title: "Data Driven Strategy Posts by Tags"
 author_profile: true
 header:
-  image: assets/images/newstoneking.jpg
+  image: "/assets/images/newstoneking.jpg"
 ---
 
 {% include base_path %}

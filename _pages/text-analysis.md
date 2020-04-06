@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: tags
 permalink: /text-analysis/
 title: "Text Analysis Posts"
 author_profile: true

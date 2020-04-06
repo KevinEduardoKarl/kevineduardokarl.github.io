@@ -11,26 +11,26 @@ excerpt: "Topic Models Analysis of COVID19 discourse on Twitter"
 
 ## Descriptive analysis
 
-For this analysis I scraped just over 100,000 tweets using the text "Coronavirus" that were made in English on Twitter between 01:00 GMT on April 4th, and 02:30 GMT on April 5th.  After stemming words to their root characters, and removing the obviously dominant words ("coronavirus, covid, etc."), I made a word cloud of the most common two word phrases:
+For this analysis I scraped over 100,000 tweets with the word "coronavirus" that were made in English on Twitter between 01:00 GMT on April 4th and 02:30 GMT on April 5th.  After stemming words to their root characters and removing the obviously dominant terms ("coronavirus, covid" etc.), here is a word cloud of the most common two word phrases:
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/bigrams.png" alt="bigram wordcloud">
 
-Not surprisingly, "new cases", "stay home", and "social distancing" were among the most commonly used two word terms. However, there is a lot more to unpack about information flows about the virus on the platform.
+Not surprisingly, "new cases", "stay home", and "social distancing" were among the most commonly used two word terms. However, there is a lot more to unpack how information about the virus flows through the platform.
 
 ## Topic models
 
 In order to determine the various topics that are prominent in the discourse, I ran a structured topic models analysis on the Twitter dataset. The model segregated the dataset into 10 different thematic clusters. Here are the single words most likely to be unique in each cluster (I provided the titles).
 
-#### * Topic 1 (Trump/Presidential Politics): trump, realdonaldtrump, presid, america, lie, cnn, real, god, question, potus
-#### * Topic 2 (Aid and Assistance): help, govern, busi, ventil, donat, food, money, communiti, economi, plan  
-#### * Topic 3 (New Cases and Deaths): tcase, death, new, report, total, updat, number, coronavirusoutbreak, confirm, itali  
-#### * Topic 4 (Predictions): still, may, year, put, chang, end, done, forc, leader, expert  
-#### * Topic 5 (Information Flows): social, read, human, find, inform, stori, fear, advic, children, articl
-#### * Topic 6 (Personal Protective Equipment): mask, wear, face, protect, worker, cdc, suppli, ppe, chines, wuhan
-#### * Topic 7 (Hospitals): week, hospit, two, nurs, travel, symptom, treatment, drug, research, treat
-#### * Topic 8 (Stay Home and Social Distance): home, stay, quarantin, stayhom, pleas, socialdistanc, safe, stayathom, love, stayhomesavel
-#### * Topic 9 (Imperatives): get, just, know, right, even, thing, talk, better, believ, mean
-#### * Topic 10 (Spread in India and Africa): vaccin, light, polic, africa, narendramodi, minut, indiafightscorona, name, indian, street
+##### * Topic 1 (Trump/Presidential Politics): trump, realdonaldtrump, presid, america, lie, cnn, real, god, question, potus
+##### * Topic 2 (Aid and Assistance): help, govern, busi, ventil, donat, food, money, communiti, economi, plan  
+##### * Topic 3 (New Cases and Deaths): tcase, death, new, report, total, updat, number, coronavirusoutbreak, confirm, itali  
+##### * Topic 4 (Predictions): still, may, year, put, chang, end, done, forc, leader, expert  
+##### * Topic 5 (Information Flows): social, read, human, find, inform, stori, fear, advic, children, articl
+##### * Topic 6 (Personal Protective Equipment): mask, wear, face, protect, worker, cdc, suppli, ppe, chines, wuhan
+##### * Topic 7 (Hospitals): week, hospit, two, nurs, travel, symptom, treatment, drug, research, treat
+##### * Topic 8 (Stay Home and Social Distance): home, stay, quarantin, stayhom, pleas, socialdistanc, safe, stayathom, love, stayhomesavel
+##### * Topic 9 (Imperatives): get, just, know, right, even, thing, talk, better, believ, mean
+##### * Topic 10 (Spread in India and Africa): vaccin, light, polic, africa, narendramodi, minut, indiafightscorona, name, indian, street
 
 Now that the dataset has been modeled into different topics, we can ask some interesting questions.
 

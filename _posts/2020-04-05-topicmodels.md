@@ -1,6 +1,6 @@
 ---
 title: "Text Analysis Project: Topic Models"
-date: 2020-04-04
+date: 2020-04-05
 tags: [text analysis, social media analysis, topic models, twitter]
 header:
   image:
@@ -59,4 +59,4 @@ Here, I consider influencers to be accounts that have high numbers of followers.
 
 Thanks for reading through my example of how to combine social media data and a structured topic models analysis to glean some interesting things about the COVID discourse.
 
-For a link to the R code I used for this analysis please go to my [github page (not yet uploaded)](url...)
+Here is [the link](https://github.com/KevinEduardoKarl/text-analysis/blob/master/COVID%20Discourse%20on%20Twitter.R) to the some of the R code I used for this analysis.

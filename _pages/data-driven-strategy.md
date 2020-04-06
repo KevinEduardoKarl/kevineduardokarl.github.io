@@ -1,17 +1,8 @@
 ---
-layout: tags
+layout: single
 permalink: /data-driven-strategy/
-title: "Data Driven Strategy Posts"
+title: "Data Driven Strategy"
 author_profile: true
 header:
   image: "/images/newstoneking.jpg"
 ---
-{% include group-by-array collection=site.posts field="tags" %}
-
-{% for tag in group_names %}
-  {% assign posts = group_items[forloop.index0] %}
-  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
-  {% for post in posts %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endfor %}

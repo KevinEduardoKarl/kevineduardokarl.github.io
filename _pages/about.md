@@ -2,6 +2,7 @@
 layout: single
 title: "About"
 permalink: /about/
+author_profile: TRUE
 header:
   image: "/images/newperu.jpg"
 ---

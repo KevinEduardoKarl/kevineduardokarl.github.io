@@ -37,7 +37,7 @@ Now that the dataset has been modeled into different topics, we can ask some int
 ### How are the topics related? Which are the most distinct and unique?
 
 <p align="center">
-  <img width="100" height="100" src="{{ site.url }}{{ site.baseurl }}/images/topicplot.png" alt="effect of topic on retweeting">
+  <img width="400" height="400" src="{{ site.url }}{{ site.baseurl }}/images/topicplot.png" alt="effect of topic on retweeting">
 </p>
 
 A network analysis of the topics reveals that the topic of PPE (topic 6), as well as the spread of the virus in India and Africa (topic 10), are the most distinct topics in the list. This just means that they are standalone areas of discourse which are discussed with a cohesive and unique vocabulary. Topics 3 and 7— hospitals and new cases, respectively— are closely linked topics. The rest of the topics are clustered together and have a much higher overlap in terms of thematic vocabulary.  

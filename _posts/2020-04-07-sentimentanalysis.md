@@ -27,9 +27,15 @@ Based on the image, it is clear that this tactic was used in higher proportions 
 
 I was also curious about how the emotional tone of the tweets differed based on which political ideology the trolls were targeting. For this analysis, I used the "sentimentr" package and it's embedded emotional vocabulary dictionaries to take a look at how the trolls diverged.
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/trollprofanity.png" alt="russian trolls profanity by ideology">
+
+The first item I was curious about was how much profanity was used on Left accounts vs. right accounts. As you can see, the Left accounts used more profanity on average. Your guess is as good as mine.
+
+In general, I was curious about which emotional tone the trolls struck on the Right vs. the Left. Here is how it breaks down along some core emotions.
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/trollemotions.png" alt="russian trolls emotions by ideology">
 
 Here it is clear that accounts targeting the Right tended to rely on vocabulary that evokes anger, fear and disgust, while Left accounts used slightly more joyous language. Interestingly, the Right accounts also employed language associated with trust more than the Left accounts did. Perhaps they discovered that combining out-group messages (anger, disgust, fear) with in-group solidarity (trust), would make for a potent mix to connect and motivate a Right audience.
 
 
-Here is [the link](https://github.com/KevinEduardoKarl/text-analysis/blob/master/COVID%20Discourse%20on%20Twitter.R) to the some of the R code I used for this analysis.
+Here is [the link](https://github.com/KevinEduardoKarl/text-analysis/blob/master/Sentiment%20Analysis%20of%20Russian%20Trolls.R) to the some of the R code I used for this analysis.

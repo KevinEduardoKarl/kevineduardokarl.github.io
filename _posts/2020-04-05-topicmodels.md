@@ -21,22 +21,24 @@ Not surprisingly, "new cases", "stay home", and "social distancing" were among t
 
 In order to determine the various topics that are prominent in the discourse, I ran a structured topic models analysis on the Twitter dataset. The model segregated the dataset into 10 different thematic clusters. Here are the single words most likely to be unique in each cluster (I provided the titles).
 
-##### * Topic 1 (Trump/Presidential Politics): trump, realdonaldtrump, presid, america, lie, cnn, real, god, question, potus
-##### * Topic 2 (Aid and Assistance): help, govern, busi, ventil, donat, food, money, communiti, economi, plan  
-##### * Topic 3 (New Cases and Deaths): tcase, death, new, report, total, updat, number, coronavirusoutbreak, confirm, itali  
-##### * Topic 4 (Predictions): still, may, year, put, chang, end, done, forc, leader, expert  
-##### * Topic 5 (Information Flows): social, read, human, find, inform, stori, fear, advic, children, articl
-##### * Topic 6 (Personal Protective Equipment): mask, wear, face, protect, worker, cdc, suppli, ppe, chines, wuhan
-##### * Topic 7 (Hospitals): week, hospit, two, nurs, travel, symptom, treatment, drug, research, treat
-##### * Topic 8 (Stay Home and Social Distance): home, stay, quarantin, stayhom, pleas, socialdistanc, safe, stayathom, love, stayhomesavel
-##### * Topic 9 (Imperatives): get, just, know, right, even, thing, talk, better, believ, mean
-##### * Topic 10 (Spread in India and Africa): vaccin, light, polic, africa, narendramodi, minut, indiafightscorona, name, indian, street
+* **Topic 1 (Trump/Presidential Politics):** trump, realdonaldtrump, presid, america, lie, cnn, real, god, question, potus
+* **Topic 2 (Aid and Assistance):** help, govern, busi, ventil, donat, food, money, communiti, economi, plan  
+* **Topic 3 (New Cases and Deaths):** tcase, death, new, report, total, updat, number, coronavirusoutbreak, confirm, itali  
+* **Topic 4 (Predictions):** still, may, year, put, chang, end, done, forc, leader, expert  
+* **Topic 5 (Information Flows):** social, read, human, find, inform, stori, fear, advic, children, articl
+* **Topic 6 (Personal Protective Equipment):** mask, wear, face, protect, worker, cdc, suppli, ppe, chines, wuhan
+* **Topic 7 (Hospitals):** week, hospit, two, nurs, travel, symptom, treatment, drug, research, treat
+* **Topic 8 (Stay Home and Social Distance):** home, stay, quarantin, stayhom, pleas, socialdistanc, safe, stayathom, love, stayhomesavel
+* **Topic 9 (Imperatives):** get, just, know, right, even, thing, talk, better, believ, mean
+* **Topic 10 (Spread in India and Africa):** vaccin, light, polic, africa, narendramodi, minut, indiafightscorona, name, indian, street
 
 Now that the dataset has been modeled into different topics, we can ask some interesting questions.
 
 ### How are the topics related? Which are the most distinct and unique?
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/topicplot.png" alt="effect of topic on retweeting">
+<p align="center">
+  <img width="100" height="100" src="{{ site.url }}{{ site.baseurl }}/images/topicplot.png" alt="effect of topic on retweeting">
+</p>
 
 A network analysis of the topics reveals that the topic of PPE (topic 6), as well as the spread of the virus in India and Africa (topic 10), are the most distinct topics in the list. This just means that they are standalone areas of discourse which are discussed with a cohesive and unique vocabulary. Topics 3 and 7— hospitals and new cases, respectively— are closely linked topics. The rest of the topics are clustered together and have a much higher overlap in terms of thematic vocabulary.  
 

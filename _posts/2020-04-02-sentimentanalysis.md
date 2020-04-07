@@ -1,6 +1,6 @@
 ---
 title: "Text Analysis Project: Russian Trolls"
-date: 2020-04-07
+date: 2020-04-02
 tags: [text analysis, social media analysis, sentiment analysis, twitter]
 header:
   image:

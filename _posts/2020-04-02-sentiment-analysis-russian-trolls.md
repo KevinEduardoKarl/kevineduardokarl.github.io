@@ -1,5 +1,5 @@
 ---
-title: "Text Analysis Project: Russian Trolls"
+title: "Sentiment Analysis: Russian Trolls"
 date: 2020-04-02
 tags: [text analysis, social media analysis, sentiment analysis, twitter]
 header:

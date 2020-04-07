@@ -1,5 +1,5 @@
 ---
-title: "Text Analysis Project: Topic Models"
+title: "Topic Models: COVID19 on Twitter "
 date: 2020-04-05
 tags: [text analysis, social media analysis, topic models, twitter]
 header:

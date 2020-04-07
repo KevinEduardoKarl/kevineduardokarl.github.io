@@ -1,5 +1,5 @@
 ---
-title: "Data-Driven Strategy: Climate Change Messaging in Battleground States"
+title: "Climate Change: How to Message Climate Reform in Battleground States in 2020"
 date: 2020-04-02
 tags: [poll analysis, climate change, 2020 election]
 header:
@@ -11,13 +11,13 @@ header:
 
 Climate change is widely regarded of the most pressing issues of our time, yet it is has been notoriously difficult to mobilize national political action to address the problem. Whoever secures the Democratic nomination for President will need to be able to sell his or her vision for climate reform around the country— and must be particularly effective at pitching that vision in battleground states where it will be challenged harshly by critics and opponents.
 
-This analysis employs a series of polls conducted by The Associate Press-NORC Center for Public Affairs Research. The survey was conducted through mail, email, telephone, and field interviews between November 14 and 19, 2018 with adults age 18 and over. The overall margin of sampling error is 3.9% points. The results of the survey were weighted using age, gender, census division, race/ethnicity and education obtained from the 2018 Current Population Survey.
+This analysis employs a series of polls conducted by The Associate Press-NORC Center for Public Affairs Research. The survey was conducted through mail, email, telephone, and field interviews between November 14 and 19, 2018 with adults over 18. The overall margin of sampling error is 3.9% points. The results of the survey were weighted using age, gender, census division, race/ethnicity and education obtained from the 2018 Current Population Survey.
 
 ## How motivated are people on climate reform amongst a host of other policy priorities?
 
 From the national poll:
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/cctable.png" alt="climate change priorities table">
+<img src="{{ site.url }}{{ site.baseurl }}/images/cctable1.png" alt="climate change priorities table">
 
 ### Insight #1:
 As much as possible, it is crucial to focus on the economic impacts of the climate change plan. When pressed, continue to frame the climate reform plan as an economic plan, and, if possible, highlight any relevant positive health implications that may derive from climate action (especially in communities hit hard by pollution and smog).
@@ -36,7 +36,7 @@ The key populations to go after in these states are clearly the “HS graduate o
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/cctable3.png" alt="climate change priorities for key states by education">
 
-###Insight #2:
+### Insight #2:
 
 Focus on people who have HS graduate degree or equivalent and some college education in order to grow the coalition that is positively oriented, and perhaps even motivated, on the issue.It is less important to spend resources on people who have a BA or above, as they are already largely on board. In fact, communicating climate reform to this segment may backlash, since climate change tends to become more polarized with educational attainment.
 
@@ -58,7 +58,7 @@ The least popular ideas were:
 * Public transportation
 * Reduce federal deficit
 
-###Insight #3:
+### Insight #3:
 
 The Democratic nominee should communicate clearly about how any tax revenue from the climate reform plan will be spent, and try to focus on these ideas instead of the costs of reform. In particular, it would be wise to focus on parts of the climate reform plan that involve natural restoration projects, renewable energy research, and any tax rebates that may land in people’s pockets. As much as possible, the nominee should pivot from from a conversation about costs to an explanation of these specific benefits.
 

@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /data-visualizations/
-title: "Data Visualizations"
+permalink: /data-visualization/
+title: "Data Visualization"
 author_profile: true
 header:
   image: "/images/newperu.jpg"

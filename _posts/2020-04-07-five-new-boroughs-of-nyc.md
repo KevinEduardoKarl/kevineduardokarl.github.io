@@ -36,7 +36,7 @@ The NTAs are ordered by negative change to positive change since 2015. One inter
 
 A borough by borough analysis is an interesting way to compare neighboring areas to each other, but a clustering analysis could be a useful way of trying to tell a few different stories about how NTAs in New York City have changed since 2015. Here I used K-means clustering to segregate the NTAs into 5 different clusters.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/fivenewboroughs.png" alt="kmeans clustering based on wellbeing indicators new york city data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/fivenew.png" alt="kmeans clustering based on wellbeing indicators new york city data">
 
 This image places all of the NTAs into clusters based on the K-means algorithm, and leads to some fascinating results:
 * **Cluster 1, Safer and More Prosperous:** In this cluster (n = 39), NTAs have made the most progress on Economic, Education, and Safety indicators of all of the clusters. Their average overall positive change since 2015 is also the highest. Examples of neighborhoods in this cluster are: Astoria, Bushwick North & South, Crown Heights North & South, Hell's Kitchen, Hunts Point, Williamsburg, and Washington Heights, to name a few. 24 out of the 39 NTAs are in Brooklyn.

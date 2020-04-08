@@ -12,10 +12,9 @@ header:
 ### Black Lives Matter: Targeting the Right or Left?
 
 In this analysis, I used a dataset containing 10,000 tweets posted by accounts
-associated with the Internet Research Agency (IRA, the Russian “troll factory”) between 2014 and 2017.  The dataset includes 10,000 tweets, and are classified as
-being either "RightTroll", meaning that they were posted by accounts that targeted on the American political Right, or "LeftTroll", which was the opposite.
+associated with the Internet Research Agency (IRA, the Russian “troll factory”) between 2014 and 2017.  Each tweet is classified as being either "RightTroll", meaning that they were posted by accounts that targeted the American political Right, or "LeftTroll".
 
-The specific IRA tactics I wanted to examine were any explicitly that referenced the Black Lives Matter movement to impact the 2016 election. The question is whether or not such tactics used more on the right (perhaps to increase Republican voter turnout), or on the left (perhaps to suppress Democratic voter turnout).
+The specific IRA tactics I wanted to examine were any explicitly that referenced the Black Lives Matter movement to impact the 2016 election. The question is whether or not such messaging was used more on the right (perhaps to increase Republican voter turnout), or on the left (perhaps to suppress Democratic voter turnout).
 
 The first step I took was creating a dictionary of 10 words that would be most associated with Black Lives Matter: "black, lives, matter, vote, justice, police, criminal, crime, panther, malcolm, shoot". I then split the tweets by account classification, and looked at the proportion of words in that dictionary that were used by Right Trolls vs. Left Trolls.
 

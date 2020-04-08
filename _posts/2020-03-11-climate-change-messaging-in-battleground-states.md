@@ -9,7 +9,7 @@ header:
 
 # How should the Democratic nominee talk about climate change reform in three key battleground states in 2020?
 
-Climate change is widely regarded of the most pressing issues of our time, yet it is has been notoriously difficult to mobilize national political action to address the problem. Whoever secures the Democratic nomination for President will need to be able to sell his or her vision for climate reform around the country— and must be particularly effective at pitching that vision in battleground states where it will be challenged harshly by critics and opponents.
+Climate change is one the most pressing issues of our time, yet it is has been notoriously difficult to mobilize national political action to address the problem. Whoever secures the Democratic nomination for President will need to be able to sell his or her vision for climate reform around the country— and must be particularly effective at pitching that vision in battleground states where it will be challenged harshly by critics and opponents.
 
 This analysis employs a series of polls conducted by The Associate Press-NORC Center for Public Affairs Research. The survey was conducted through mail, email, telephone, and field interviews between November 14 and 19, 2018 with adults over 18. The overall margin of sampling error is 3.9% points. The results of the survey were weighted using age, gender, census division, race/ethnicity and education obtained from the 2018 Current Population Survey.
 
@@ -20,11 +20,11 @@ From the national poll:
 <img src="{{ site.url }}{{ site.baseurl }}/images/cctable1.png" alt="climate change priorities table">
 
 ### Insight #1:
-As much as possible, it is crucial to focus on the economic impacts of the climate change plan. When pressed, continue to frame the climate reform plan as an economic plan, and, if possible, highlight any relevant positive health implications that may derive from climate action (especially in communities hit hard by pollution and smog).
+As much as possible, it is crucial to focus on the economic benefits of climate reform. When pressed, continue to frame the climate reform plan as an economic plan, and, if possible, highlight any relevant positive health implications that may derive from climate action (especially in communities hit hard by pollution and smog).
 
 ## How about key constituents in important battleground states?
 
-In 2016, Hillary Clinton lost in the crucial states of Wisconsin, Michigan, and Pennsylvania, which were critical to Donald Trump’s Presidential victory. Furthermore, [according to analysis conducted by Nate Silver](https://fivethirtyeight.com/features/education-not-income-predicted-who-would-vote-for-trump/), educational attainment was the key indicator that predicted who would vote for Trump in 2016.
+In 2016, Hillary Clinton lost in the crucial states of Wisconsin, Michigan, and Pennsylvania, which were critical to Donald Trump’s Presidential victory. Furthermore, [according to analysis conducted by Nate Silver](https://fivethirtyeight.com/features/education-not-income-predicted-who-would-vote-for-trump/), educational attainment was perhaps the key indicator that predicted who would vote for Trump in 2016.
 
 Therefore, the survey results were filtered to examine how different educational attainment segments in those key states responded to the same question as above.
 
@@ -38,11 +38,11 @@ The key populations to go after in these states are clearly the “HS graduate o
 
 ### Insight #2:
 
-Focus on people who have HS graduate degree or equivalent and some college education in order to grow the coalition that is positively oriented, and perhaps even motivated, on the issue.It is less important to spend resources on people who have a BA or above, as they are already largely on board. In fact, communicating climate reform to this segment may backlash, since climate change tends to become more polarized with educational attainment.
+Focus on people who have HS graduate degree or equivalent and some college education in order to grow the coalition that is positively oriented, and perhaps even motivated, on the issue. It is less important to spend resources on people who have a BA or above as they are already largely on board. In fact, communicating climate reform to this segment may backlash, since climate change tends to become more polarized with educational attainment.
 
 ## Which messages are most likely to persuade this constituent group?
 
-The next question summarizes varying support for ways to spend any tax revenue incurred from some form of carbon tax. The results are segmented by the key subpopulations that we are looking at: people who have somewhere between a high school diploma and some college under their belt without getting a full BA or equivalent degree, who reside in MI, WI, or PA. Each value is in percentage points.
+The next question summarizes varying support for ways to spend any tax revenue incurred from some form of carbon tax. The results are segmented by the key subpopulations that we are looking at: people who have somewhere between a high school diploma and some college under their belt without getting a full BA or equivalent degree, and who reside in MI, WI, or PA. Each value is in percentage points.
 
 Question: “Would you support, oppose or neither support nor oppose taxing the emissions of carbon-based fuels such as coal, oil, and natural gas if the tax revenue was used to:”
 
@@ -60,7 +60,7 @@ The least popular ideas were:
 
 ### Insight #3:
 
-The Democratic nominee should communicate clearly about how any tax revenue from the climate reform plan will be spent, and try to focus on these ideas instead of the costs of reform. In particular, it would be wise to focus on parts of the climate reform plan that involve natural restoration projects, renewable energy research, and any tax rebates that may land in people’s pockets. As much as possible, the nominee should pivot from from a conversation about costs to an explanation of these specific benefits.
+The Democratic nominee should communicate clearly about how any tax revenue from the climate reform plan will be spent and try to focus on these ideas instead of the costs of reform. In particular, it would be wise to focus on parts of the climate reform plan that involve natural restoration projects, renewable energy research, and any tax rebates that may land in people’s pockets. As much as possible, the nominee should pivot from from a conversation about costs to an explanation of these specific benefits.
 
 ### Summary
 

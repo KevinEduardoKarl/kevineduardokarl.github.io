@@ -23,7 +23,7 @@ In order to determine the various topics that are prominent in the discourse, I 
 
 * **Topic 1 (Trump/Presidential Politics):** trump, realdonaldtrump, presid, america, lie, cnn, real, god, question, potus
 * **Topic 2 (Aid and Assistance):** help, govern, busi, ventil, donat, food, money, communiti, economi, plan  
-* **Topic 3 (New Cases and Deaths):** tcase, death, new, report, total, updat, number, coronavirusoutbreak, confirm, itali  
+* **Topic 3 (New Cases and Deaths):** case, death, new, report, total, updat, number, coronavirusoutbreak, confirm, itali  
 * **Topic 4 (Predictions):** still, may, year, put, chang, end, done, forc, leader, expert  
 * **Topic 5 (Information Flows):** social, read, human, find, inform, stori, fear, advic, children, articl
 * **Topic 6 (Personal Protective Equipment):** mask, wear, face, protect, worker, cdc, suppli, ppe, chines, wuhan

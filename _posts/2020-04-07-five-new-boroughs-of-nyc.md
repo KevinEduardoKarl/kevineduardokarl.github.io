@@ -1,5 +1,5 @@
 ---
-title: "New Clusters in the City: The Five Boroughs of NYC by Well-being Data"
+title: "Clustering in the City: The Five New Boroughs of NYC by Well-being Data"
 date: 2020-04-07
 tags: [exploratory analysis, data visualization, machine learning]
 header:
@@ -7,7 +7,7 @@ header:
   excerpt: "The five unique paths of NYC neighborhoods since 2015"
 ---
 
-# What would the five boroughs in NYC look be if you clustered them based on how well they have fared since 2015?
+# What five new boroughs would emerge if you clustered them based on how well they have fared since 2015?
 
 In this analysis, I explored a dataset of well-being indicators broken down by Neighborhood Tabulation Areas ("NTAs") in New York City. NTAs are a geographical unit that more or less resemble what a resident would call their neighborhood. Examples would be: Lower East Side,
 Flushing, or Prospect Lefferts Gardens. Where neighborhoods are quite large and possess two unique areas they are split in two: e.g. Crown Heights North and Crown Heights South.

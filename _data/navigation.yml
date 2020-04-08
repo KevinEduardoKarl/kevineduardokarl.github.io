@@ -6,7 +6,8 @@ main:
     url: /data-driven-strategy/
   - title: "Text Analysis"
     url: /text-analysis/
-
+  - title: "Data Visualization"
+    url: /data-visualization/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

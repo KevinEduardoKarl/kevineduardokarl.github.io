@@ -1,13 +1,13 @@
 ---
-title: "Clustering with City Data: The Five New Boroughs of NYC"
+title: "New Clusters in the City: The Five Boroughs of NYC by Wellbeing Indicators"
 date: 2020-04-07
 tags: [exploratory analysis, data visualization, machine learning]
 header:
   image:
-  excerpt: "The five different trajectories of NYC neighborhoods since 2015"
+  excerpt: "The five unique paths of NYC neighborhoods since 2015"
 ---
 
-# What would five new boroughs in NYC look like if you clustered them based on wellbeing indicators?
+# What would the five boroughs in NYC look be if you clustered them based on how well they have fared since 2015?
 
 In this analysis, I explored a dataset of wellbeing indicators broken down by Neighborhood Tabulation Areas ("NTAs") in New York City. NTAs are a geographical unit that more or less resemble what a resident would call their neighborhood. Examples would be: Lower East Side,
 Flushing, or Prospect Lefferts Gardens. Where neighborhoods are quite large and possess two unique areas they are split in two: e.g. Crown Heights North and Crown Heights South.
@@ -36,7 +36,7 @@ The NTAs are ordered by negative change to positive change since 2015. One inter
 
 A borough by borough analysis is an interesting way to compare neighboring areas to each other, but a clustering analysis could be a useful way of trying to tell a few different stories about how NTAs in New York City have changed since 2015. Here I used K-means clustering to segregate the NTAs into 5 different clusters.
 
-img src="{{ site.url }}{{ site.baseurl }}/images/fivenewboroughs.png" alt="kmeans clustering based on wellbeing indicators new york city data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/fivenewboroughs.png" alt="kmeans clustering based on wellbeing indicators new york city data">
 
 This image places all of the NTAs into clusters based on the K-means algorithm, and leads to some fascinating results:
 * **Cluster 1, Safer and More Prosperous:** In this cluster (n = 39), NTAs have made the most progress on Economic, Education, and Safety indicators of all of the clusters. Their average overall positive change since 2015 is also the highest. Examples of neighborhoods in this cluster are: Astoria, Bushwick North & South, Crown Heights North & South, Hell's Kitchen, Hunts Point, Williamsburg, and Washington Heights, to name a few. 24 out of the 39 NTAs are in Brooklyn.

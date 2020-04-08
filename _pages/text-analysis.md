@@ -11,4 +11,4 @@ Using modern tools, the lines between quantitative and qualitative research are 
 
 Links to my text analysis posts:
 * [Sentiment Analysis: Russian Trolls](https://kevineduardokarl.github.io/sentiment-analysis-russian-trolls/)
-* [Topic Models: COVID 19 discourse on Twitter](https://kevineduardokarl.github.io/topics-models-covid-19)
+* [Topic Models: COVID 19 discourse on Twitter](https://kevineduardokarl.github.io/topic-models-covid-19)

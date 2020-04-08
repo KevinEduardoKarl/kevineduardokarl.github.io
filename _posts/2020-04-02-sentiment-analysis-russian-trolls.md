@@ -7,7 +7,7 @@ header:
   excerpt: "Targeting Tactics and Sentiment Analysis of Russian Trolls"
 ---
 
-# How do Russian troll messages differ based on political ideology of the audience?
+# How did Russian trolling campaigns differ based on the political ideology of the audience?
 
 ### Black Lives Matter: Targeting the Right or Left?
 

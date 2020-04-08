@@ -7,7 +7,7 @@ header:
   image: "/images/newwood.jpg"
 ---
 
-Using modern tools, the lines between quantitative and qualitative research are being redrawn, and sometimes thrown out altogether. I employ exploratory analysis, descriptive analysis, and machine learning methods to unpack large bodies of texts and drive insights into how people communicate.
+Using modern tools, the lines between quantitative and qualitative research are being redrawn daily, and sometimes thrown out altogether. I employ exploratory analysis and descriptive analysis, as well as machine learning methods, to unpack large bodies of texts and drive insights into how people communicate and why it's important.
 
 Links to my text analysis posts:
 * [Sentiment Analysis: Russian Trolls](https://kevineduardokarl.github.io/sentiment-analysis-russian-trolls/)

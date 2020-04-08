@@ -46,7 +46,7 @@ The next question summarizes varying support for ways to spend any tax revenue i
 
 Question: “Would you support, oppose or neither support nor oppose taxing the emissions of carbon-based fuels such as coal, oil, and natural gas if the tax revenue was used to:”
 
-<img height="1000" src="{{ site.url }}{{ site.baseurl }}/images/cctable4.png" alt="climate change reform support by revenue spending program">
+<img src="{{ site.url }}{{ site.baseurl }}/images/cctable4.png" height="75%" alt="climate change reform support by revenue spending program">
 
 It turns out the the three most popular ideas (highest net support) for folks with high school or some college is:
 * Natural restoration

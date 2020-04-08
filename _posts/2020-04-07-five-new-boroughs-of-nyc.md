@@ -28,7 +28,7 @@ While economic and housing indicators were correlated with the overall wellbeing
 
 To get a stronger sense of what is going on at a borough level, I filtered the data to look at all of the indicators stacked up on top of each other in the Bronx.
 
-<img height="1000" src="{{ site.url }}{{ site.baseurl }}/images/bronxchange.png" alt="bar graph bronx wellbeing indicators">
+<img src="{{ site.url }}{{ site.baseurl }}/images/bronxchange.png" height="75%" alt="bar graph bronx wellbeing indicators">
 
 The NTAs are ordered by negative change to positive change since 2015. One interesting thing to note is that the Health domain has decreased in practically all of the NTAs since 2015. For the NTAs who experienced the most negative change, it appears that decreases in the Housing and Infrastructure domains are some of the biggest issues facing them. For the highest few NTAs, a combination of improvements in the Safety and Economic domains seem to propel them into a higher level of overall wellbeing.
 

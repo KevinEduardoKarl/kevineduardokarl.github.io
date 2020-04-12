@@ -13,3 +13,4 @@ Links to writing samples on research and policy related to food, climate, and eq
 * [Climate-Smart Agricultural Policy in a Rangeland Context](https://kevineduardokarl.github.io/assets/healthy-soils-policy.pdf)
 * [Transforming the American Food System: A Path to Food Sovereignty](https://kevineduardokarl.github.io/assets/towards-food-sovereignty.pdf)
 * [Beyond Emissions Reduction: Alternative Options for Reducing Climate Risk](https://kevineduardokarl.github.io/assets/beyond-emissions-reduction.pdf)
+* [Better Soil Management is Key to a Carbon Neutral Future](https://kevineduardokarl.github.io/ghg-emissions-soils)

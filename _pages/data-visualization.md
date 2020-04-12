@@ -11,3 +11,4 @@ Visualizing data is only one part of the battle. Correctly interpreting and comm
 
 Links to my data visualization posts:
 * [The Five New Boroughs of NYC](https://kevineduardokarl.github.io/five-new-boroughs-of-nyc)
+* [Better Soil Management is Key to a Carbon Neutral Future](https://kevineduardokarl.github.io/ghg-emissions-soils)

@@ -8,8 +8,8 @@ main:
     url: /text-analysis/
   - title: "Data Visualization"
     url: /data-visualization/
-  - title: "Food, Climate, and Society"
-    url: /food-climate-society/
+  - title: "Food + Climate + Equity"
+    url: /food-climate-equity/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

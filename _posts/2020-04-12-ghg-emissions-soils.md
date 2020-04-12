@@ -14,7 +14,9 @@ Let's get the details out of the way first. This data is taken from the Food and
 
 The main trends here are clear, while most indicators are clearly rising, the two main contributors— enteric fermentation and agricultural soils— are increasing at different rates. At the current rate, it appears that agricultural soil management will catch, and then surpass, enteric fermentation as the number one cause of GhG emissions from agriculture.
 
-# What is enteric fermentation? What is included in "agricultural soils"? ### The distinction is not as simple as animal agriculture vs. cropland agriculture.
+# What is enteric fermentation? What is included in "agricultural soils"?
+
+### The distinction is not as simple as animal agriculture vs. cropland agriculture.
 
 According to the FAO, GhG emissions from enteric fermentation are composed of "methane gas produced in digestive systems of ruminants and to a lesser extent of non-ruminants." Methane is a potent greenhouse gas up with up 30 times the heat-trapping potential as Carbon Dioxide. Fortunately, it does not last in the atmosphere for nearly as long. Still, the contributions of our current system of animal agriculture towards overall GhG emissions is staggering.
 

@@ -11,5 +11,5 @@ My subject matter expertise sits at the intersection of agriculture, climate cha
 
 Links to writing samples on research and policy related to food, climate, and equity:
 * [Climate-Smart Agricultural Policy in a Rangeland Context](https://kevineduardokarl.github.io/assets/healthy-soils-policy.pdf)
-* [Transforming the American Food System: A Path to Food Sovereignty](https://kevineduardokarl.github.io/assets/food-climate-equity.pdf)
+* [Transforming the American Food System: A Path to Food Sovereignty](https://kevineduardokarl.github.io/assets/towards-food-sovereignty.pdf)
 * [Beyond Emissions Reduction: Alternative Options for Reducing Climate Risk](https://kevineduardokarl.github.io/assets/beyond-emissions-reduction.pdf)

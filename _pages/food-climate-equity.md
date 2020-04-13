@@ -10,7 +10,8 @@ header:
 My subject matter expertise sits at the intersection of agriculture, climate change, and social equity. I have spent nearly a decade working in food and agriculture as a farmer, food security professional, and community advocate focusing on food justice. Throughout my educational career I have centered the scientific, economic, and policy considerations that connect our food system, climate, and the vitality of our communities.
 
 Links to writing samples on research and policy related to food, climate, and equity:
-* [Climate-Smart Agricultural Policy in a Rangeland Context](https://kevineduardokarl.github.io/assets/healthy-soils-policy.pdf)
+
 * [Transforming the American Food System: A Path to Food Sovereignty](https://kevineduardokarl.github.io/assets/towards-food-sovereignty.pdf)
+* [Climate-Smart Agricultural Policy in a Rangeland Context](https://kevineduardokarl.github.io/assets/healthy-soils-policy.pdf)
 * [Beyond Emissions Reduction: Alternative Options for Reducing Climate Risk](https://kevineduardokarl.github.io/assets/beyond-emissions-reduction.pdf)
 * [Better Soil Management is Key to a Carbon Neutral Future](https://kevineduardokarl.github.io/ghg-emissions-soils)

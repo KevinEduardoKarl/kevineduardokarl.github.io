@@ -4,7 +4,7 @@ date: 2020-04-12
 tags: [exploratory analysis, data visualization, agriculture, climate]
 header:
   image:
-  excerpt: "We should not overlook the fundamentals"
+  excerpt: "Change starts from the bottom."
 ---
 ## Soil management practices have caught up with ruminant fermentation as a share of global greenhouse gas emissions from agriculture.
 

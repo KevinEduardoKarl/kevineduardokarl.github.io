@@ -4,7 +4,7 @@ permalink: /data-visualization/
 title: "Data Visualization"
 author_profile: true
 header:
-  image: "/images/newperu.jpg"
+  image: "/images/newperu2.jpg"
 ---
 
 Visualizing data is only one part of the battle. Correctly interpreting and communicating the story that the data is telling us is the key to smarter decision making.
